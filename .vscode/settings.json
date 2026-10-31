@@ -2,6 +2,9 @@
     "files.associations": {
         "*.html": "liquid"
     },
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\app\\rubyinstaller-4.0.9-1-x64\\bin;${env:PATH}"
+    },
     "[liquid]": {
         "editor.defaultFormatter": "Shopify.theme-check-vscode",
         "editor.formatOnSave": true

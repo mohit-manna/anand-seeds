@@ -1,15 +1,15 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: Anand Seeds
+tagline: Cauliflower Seeds
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  The demo site for Anand Seeds, made for Jekyll and GitHub pages websites
+baseurl: "/anand-seeds"
+url: "https://www.anandseeds.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+gh_sponsor: mohit-manna
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
